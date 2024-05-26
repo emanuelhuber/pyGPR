@@ -1,9 +1,8 @@
 # WORK IN PROGRESS [pyGPR](http://emanuelhuber.github.io/pyGPR): a free and open-source software package for ground-penetrating radar (GPR) data processing
 
-## Objective
+## Objective: Translate [RGPR](http://emanuelhuber.github.io/RGPR) into python...
 
-Translate [RGPR](http://emanuelhuber.github.io/RGPR) into python...
-
+Check the wiki: https://github.com/emanuelhuber/pyGPR/wiki
 
 **If you have any questions, comments or suggestions, feel free to contact me (in english, french or german):**
 **emanuel.huber@pm.me**
